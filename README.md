@@ -20,3 +20,11 @@ git commit -m "커밋 메시지..."
 
 git push origin main
 ```
+
+```sh
+# git 로그 명령어
+
+git log
+git log --oneline
+git log --oneline --all
+```
