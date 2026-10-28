@@ -14,3 +14,9 @@ git add -A # 해당 레포의 전역(몽땅 다)
 git commit -m "커밋 메시지..."
 
 ```
+
+```bash
+# push command
+
+git push origin main
+```
