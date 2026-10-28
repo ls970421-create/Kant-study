@@ -8,3 +8,9 @@ git init
 git add . # 현재 폴더 내 파일 한정
 git add -A # 해당 레포의 전역(몽땅 다)
 ```
+
+```bash
+# Commit
+git commit -m "커밋 메시지..."
+
+```
